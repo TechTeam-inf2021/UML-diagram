@@ -7,3 +7,6 @@
 # Σχεδίαση διαγράμματος
 Σχεδίαση του διαγράμματος πραγματοποιήθηκε μέσω της ιστοσελίδας:
 [planttext.com](https://planttext.com/)
+
+# UML διάγραμμα
+![uml](https://github.com/TechTeam-inf2021/UML-diagram/assets/166173503/32a2925f-a0d6-4682-bc9f-bc774bb2df14)
